@@ -1,11 +1,10 @@
-package com.alamin.kotlin_recyclerview_retrofit.adapter
+package com.alamin.kotlin_recyclerview_retrofit.view
 
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
-import android.widget.Toast
 import butterknife.BindView
 import butterknife.ButterKnife
 import com.alamin.kotlin_recyclerview_retrofit.R
